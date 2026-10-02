@@ -31,3 +31,37 @@ Si alguna vez quieres echar una partida en la PS5 o hablar de fútbol, ¡no dude
 
 *   **PSN ID:** `Joel_66-2013`
 *   **Discord:** `TuDiscordAquí`
+*   # Hi there! Welcome to my profile 👋
+*   
+
+Hello! I'm a big sports and gaming enthusiast. Here is a little bit about me, my hobbies, and what I like to play with friends during my free time.
+
+---
+
+## 🎮 Gaming & Console
+
+I mainly play on **PlayStation 5** 🎮. I love competing online and having a blast gaming with my friends.
+
+*   **Fortnite:** Dropping into Battle Royale, Creative, or Zero Build with the squad.
+*   **Rocket League:** Fast-paced matches, aerials, and hitting those sweet goals.
+
+---
+
+## ⚽ Futsal & Real Madrid Fan
+
+Football is a huge part of my life, both playing it and supporting my favorite team:
+
+*   **Futsal (Indoor Football):** This is the sport I actually play and love. I enjoy the fast pace, the skills, and the quick decision-making in tight spaces.
+*   **Real Madrid:** I'm a Madridista at heart. I follow the club closely in every competition. 🤍
+
+### My Favorite Player 🌟
+> **Federico Valverde 🦅**
+> I truly admire his work rate on the pitch, his physical power, his long-range shooting, and how he leaves everything out there for the Real Madrid jersey. Pure passion!
+
+---
+
+## 🛠️ Let's Connect
+If you ever want to team up on PS5 or talk about football, feel free to reach out!
+
+*   **PSN ID:** `Joel_66-2013`
+*   **Discord:** `YourDiscordHere`
