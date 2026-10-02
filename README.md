@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Bienvenidos a mi perfil 👋
 
-<!--
-**Joel-66-2013/Joel-66-2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un apasionado de los deportes y los videojuegos. Aquí te cuento un poco más sobre mí, mis aficiones y lo que me gusta jugar en mi tiempo libre.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Gaming & Consola
+
+Juego principalmente en **PlayStation 5** 🎮. Me encanta competir en línea y pasar un buen rato jugando con amigos.
+
+*   **Fortnite:** Modo Battle Royale, creativo o cero construcción con el equipo.
+*   **Rocket League:** Partidos rápidos, pases y goles aéreos.
+
+---
+
+## ⚽ Fútbol Sala & Pasión Merengue
+
+El fútbol es una parte fundamental de mi día a día, tanto jugándolo como apoyando a mi equipo:
+
+*   **Fútbol Sala:** Es el deporte que practico y me apasiona. Me encanta la velocidad, la táctica y el juego en espacios reducidos.
+*   **Real Madrid:** Soy madridista de corazón. Sigo al club en todas las competiciones. 🤍
+
+### Mi Jugador Favorito 🌟
+> **Federico Valverde (El pajarito🦅)**
+> Admiro su entrega en el campo, su potencia física, el disparo de larga distancia y cómo da todo por la camiseta del Real Madrid en cada partido. ¡Pura garra charrúa!
+
+---
+
+## 🛠️ Conectemos
+Si alguna vez quieres echar una partida en la PS5 o hablar de fútbol, ¡no dudes en avisar!
+
+*   **PSN ID:** `Joel_66-2013`
+*   **Discord:** `TuDiscordAquí`
